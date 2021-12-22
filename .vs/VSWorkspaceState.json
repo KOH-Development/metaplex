@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\js",
+    "\\js\\packages",
+    "\\js\\packages\\cli",
+    "\\js\\packages\\cli\\src",
+    "\\js\\packages\\gumdrop",
+    "\\rust\\nft-candy-machine",
+    "\\rust\\nft-candy-machine\\src"
+  ],
+  "SelectedNode": "\\js\\packages\\cli\\src\\gumdrop-cli.ts",
+  "PreviewInSolutionExplorer": false
+}
