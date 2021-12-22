@@ -1209,4 +1209,3 @@ export const Claim = (
     </Stack>
   );
 };
-
